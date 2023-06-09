@@ -1,4 +1,4 @@
-#Indtalling the requests module using pip
+#Installing the requests module using pip
 #Then importing the requets module
 
 import requests
